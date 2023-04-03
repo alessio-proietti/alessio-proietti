@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am studente in cryptography and machine learning.
+I am student in cryptography and machine learning.
 
 <!--
 **alessio-proietti/alessio-proietti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
